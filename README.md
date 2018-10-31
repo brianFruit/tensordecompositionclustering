@@ -1,2 +1,2 @@
-# tensordecompositionclustering
-cluster by tensor decomposition (WIP)
+# Tensor Decomposition Clustering (WIP)
+cluster by tensor decomposition
